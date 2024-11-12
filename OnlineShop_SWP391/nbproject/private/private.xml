@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="SWP">
+            <file>file:/D:/Fork/group04/OnlineShop_SWP391/src/java/dal/seller/SaleDAO.java</file>
+            <file>file:/D:/Fork/group04/OnlineShop_SWP391/web/product-detail.jsp</file>
+        </group>
+        <group>
+            <file>file:/D:/group04/OnlineShop_SWP391/src/java/controller/common/product/SearchProduct.java</file>
+            <file>file:/D:/group04/OnlineShop_SWP391/src/java/controller/warehouse/product/EditProduct.java</file>
+            <file>file:/D:/group04/OnlineShop_SWP391/web/home.jsp</file>
+            <file>file:/D:/group04/OnlineShop_SWP391/src/java/dal/marketer/SizeDAO.java</file>
+            <file>file:/D:/group04/OnlineShop_SWP391/src/java/dal/common/RegisterDAO.java</file>
+            <file>file:/D:/group04/OnlineShop_SWP391/web/editProductWarehouse.jsp</file>
+            <file>file:/D:/group04/OnlineShop_SWP391/src/java/dal/db/DBContext.java</file>
+        </group>
+    </open-files>
+</project-private>

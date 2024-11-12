@@ -1,0 +1,274 @@
+//NOTE:
+> Chia thành 3 Category: Áo thể thao, Quần thể thao, Váy thể thao
+> Quần áo sẽ gồm có 2 Attribute:
+- Gender: Man/Women/Unisex
+- Color
+> Tôi lấy dữ liệu ở trang vnbshop thì không thấy DESCRIPTION nên sẽ để SIZE ở đấy:
+Size: S, M, L, XL, 2XL, 3XL (Các sản phẩm khác cũng có size tương tự nên có thể copy chung)
+
+***ÁO CẦU LÔNG
+
+//YONEX
+
+1. Áo cầu lông Yonex VM1058 nữ - Trắng xanh cam
+Gender: Women
+Color: White
+Url: "C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-yonex-vm1058-nu-tran.jpg"
+Brand: Yonex
+Price: 130.000đ
+
+2. Áo cầu lông Yonex 23031 nữ - Vàng
+Women
+Yellow
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-yonex-23031-nu-vang.jpg"
+Yonex
+160.000đ
+
+3. Áo cầu lông Yonex 23036 nữ - Xanh
+Woman
+Blue
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-yonex-2306-nam-trang.jpg"
+Yonex
+160.000đ
+
+4. Áo khoác Yonex 250113BCR nữ
+Women
+White
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-khoac-yonex-250113bcr-nu-den.jpg"
+Yonex
+1.049.000đ
+
+5. Áo cầu lông Yonex VM1060 nam - Trắng xanh
+Man
+Blue
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-yonex-vm1062-nam-tra.jpg"
+Yonex
+130.000đ
+
+6. Áo cầu lông Yonex VM1059 nam - Trắng xanh ngọc
+Man
+Light Green White
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-yonex-vm1059-nam-tra.jpg"
+Yonex
+130.000đ
+
+7. Áo cầu lông Yonex VM1058 nam - Trắng xanh cam
+Man
+White
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-yonex-vm1058-nam-tra.jpg"
+Yonex
+130.000đ
+
+8. Áo khoác Yonex 150113BCR nam
+Man
+Black
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-khoac-yonex-150113bcr-nam-den.jpg"
+Yonex
+1.049.000 ₫
+
+//LINING
+
+9. Áo cầu lông Lining VM1061 nữ - Xanh navy
+Women
+Navy
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-yonex-vm1061-nam-xan.jpg"(hãng lining mà mã ảnh lại yonex :v)
+Lining
+130.000đ
+
+10. Áo cầu lông Lining VM1062 nữ - Trắng xanh
+Women
+Blue White
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-lining-vm1062-nam-tra.jpg"
+Lining
+130.000đ
+
+11. Áo Cầu Lông Lining 363 Nữ - Trắng
+Women
+White
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-lining-363-nu-trang.jpg"
+Lining
+160.000đ
+
+12. Áo Cầu Lông Lining A536 Nam - Đen
+Man
+Black
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-lining-a536-nam-den.jpg"
+Lining
+130.000đ
+
+13. Áo Cầu Lông Lining A462 Nam - Xanh
+Man
+Green
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-lining-a462-nam-xanh.jpg"
+Lining
+130.000đ
+
+14. Áo cầu lông Lining 6588 nam - Xanh đen
+Man
+Dark Blue
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-lining-6588-nu-den_1.jpg"
+Lining
+160.000đ
+
+//VICTOR
+
+15. Áo Cầu Lông Victor 281 Nữ - Trắng
+Women
+White
+C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-victor-281-nu-trang.jpg
+Victor
+160.000đ
+
+16. Áo cầu lông Victor 281 nữ - Đen đỏ
+Women
+Black
+C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-victor-281-nu-den-do.jpg
+Victor
+160.000đ
+
+17. Áo Cầu Lông Victor A465 Nam - Đỏ
+Man
+Red
+C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-victor-a465-nam-do_1.jpg
+Victor
+130.000đ
+
+18. Áo Cầu Lông Victor A463 Nam - Trắng Xanh
+Man
+Green
+C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\ao-cau-long-victor-a463-nam-tran.jpg
+Victor
+130.000đ
+
+***QUẦN CẦU LÔNG
+
+//YONEX
+
+1. Quần cầu lông Yonex 9225 - Vàng
+Man
+Yellow
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\quan-cau-long-yonex-9225-vang_17.jpg"
+Yonex
+130.000đ
+
+2. Quần cầu lông Yonex 959 - Xanh
+Man
+Blue
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\quan-cau-long-yonex-959-xanh_172.jpg"
+Yonex
+130.000đ
+
+//LINING
+
+3. Quần cầu lông Lining Q37 nam - Đen
+Man
+Black
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\quan-cau-long-lining-q37-nam-den.jpg"
+Lining
+110.000đ
+
+4. Quần cầu lông Lining Q21 nam - Trắng
+Man
+White
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\quan-cau-long-lining-q21-nam-tra.jpg"
+Lining
+110.000đ
+
+//VICTOR
+
+5. Quần cầu lông Victor 960 - Trắng
+Man
+White
+C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\quan-cau-long-victor-960-trang_1.jpg
+Victor
+130.000đ
+
+6. Quần cầu lông Victor 960 - Đen vàng
+Man
+Black
+C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\quan-cau-long-victor-960-den-van.jpg
+Victor
+130.000đ
+
+7. Quần cầu lông Victor 960 - Xanh than
+Man
+Blue
+C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\quan-cau-long-victor-960-xanh-th.jpg
+Victor
+130.000đ
+
+***VÁY CẦU LÔNG
+
+//YONEX
+
+1. Váy cầu lông Yonex 01 - Vàng trắng
+Women
+Yellow
+C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\vay-cau-long-yonex-01-vang-trang.jpg
+Yonex
+140.000đ
+
+2. Váy cầu lông Yonex 26118EX - Đen chính hang
+Women
+Black
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\vay-cau-long-yonex-26118ex-den-c.jpg"
+Yonex
+500.000đ
+
+3. Váy cầu lông Yonex 943 - Trắng
+Women
+White
+C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\vay-cau-long-yonex-943-trang-8.jpg
+Yonex
+150.000đ
+
+//LINING
+
+4. Váy cầu lông Lining 9019 - Trắng
+Women
+White
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\vay-cau-long-lining-9019-trang-1.jpg"
+Lining
+150.000đ
+
+5. Váy cầu lông Lining 9019 - Đen
+Women
+Black
+"C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\vay-cau-long-lining-9019-den-1.jpg"
+Lining
+150.000đ
+
+6. Váy cầu lông Lining 9861 - Trắng
+Women
+White
+C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\vay-cau-long-lining-9861-trang_1.jpg
+Lining
+150.000đ
+
+//VICTOR
+
+7. Váy cầu lông Victor 7053 - Trắng đen
+Women
+White
+C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\vay-cau-long-victor-7053-trang-d.jpg
+Victor
+150.000đ
+
+8. Váy cầu lông Victor TCV2361 - Đen
+Women
+Black
+C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\vay-cau-long-victor_1698717474.jpg
+Victor
+140.000đ
+
+9. Váy cầu lông Victor 7053 - Đen trắng
+Women
+Black
+C:\Users\LENNOVO\group04\IMAGE\Toàn\ImageClothes\vay-cau-long-victor-7053-den-tra.jpg
+Victor
+150.000đ
+
+
+
+
+
